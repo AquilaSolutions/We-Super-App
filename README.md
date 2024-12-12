@@ -1,5 +1,5 @@
 # We-Super-App
-The ultimate super app combining News, Grocery, Money, and Wealth management services.
+The ultimate super app combining News, Grocery, Money, and Health management services.
 Welcome to **WE**, the ultimate super app designed to simplify and enrich your life. With a focus on innovation and convenience, WE combines essential services into one seamless platform, including:
 
 - **News**: Stay updated with the latest trends and breaking news.
